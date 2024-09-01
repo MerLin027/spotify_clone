@@ -54,4 +54,4 @@ This is a personal project for educational purposes. However, if you'd like to s
 ## Contact
 
 Vrushank Ganatra - 23it032@charusat.edu.in
-Project Link:
+Project Link: https://github.com/MerLin027/spotify_clone.git
