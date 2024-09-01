@@ -15,7 +15,6 @@ This repository contains a recreated version of the Spotify homepage. The main o
 
 - Responsive design mimicking the Spotify homepage
 - Interactive elements (if implemented)
-- Mobile-friendly layout
 
 ## Technologies Used
 
