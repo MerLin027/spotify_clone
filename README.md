@@ -39,9 +39,9 @@ To run this project locally:
 
 ## Deployment
 
-This project is live and can be viewed at: [Insert your deployment URL here]
+This project is live and can be viewed at: https://spotify-clone-miniproject.netlify.app/
 
-The site is deployed using [Netlify/Vercel/Render].
+The site is deployed using Netlify.
 
 ## Contributing
 
