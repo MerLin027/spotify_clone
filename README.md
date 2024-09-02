@@ -28,11 +28,11 @@ To run this project locally:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/spotify-homepage-clone.git
+   git clone https://github.com/MerLin027/spotify_clone.git
    ```
 2. Navigate to the project directory:
    ```
-   cd spotify-homepage-clone
+   cd spotify_clone
    ```
 3. Open `index.html` in your preferred web browser.
 
@@ -53,4 +53,5 @@ This is a personal project for educational purposes. However, if you'd like to s
 ## Contact
 
 Vrushank Ganatra - 23it032@charusat.edu.in
+
 Project Link: https://github.com/MerLin027/spotify_clone.git
