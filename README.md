@@ -14,13 +14,13 @@ This repository contains a recreated version of the Spotify homepage. The main o
 ## Features
 
 - Responsive design mimicking the Spotify homepage
-- Interactive elements (if implemented)
+- Interactive elements
 
 ## Technologies Used
 
 - HTML5
 - CSS3
-- JavaScript (if used)
+- JavaScript
 
 ## Installation and Setup
 
